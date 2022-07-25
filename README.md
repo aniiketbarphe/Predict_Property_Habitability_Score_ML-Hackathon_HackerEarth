@@ -1,3 +1,5 @@
+![Intro Image - Copy](https://user-images.githubusercontent.com/84449238/180827289-089f1dd9-d05e-4bd4-b222-63bce86609c1.JPG)
+
 # Predict_Property_Habitability_Score_ML-Hackathon_HackerEarth
 **1) Problem Statement:-**
 
