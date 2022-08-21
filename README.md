@@ -22,3 +22,7 @@ The columns provided in the dataset are as follows:
 **4)Evaluation metric:-**
 
 ![Matrix](https://user-images.githubusercontent.com/84449238/180826692-fe415357-71af-4bf3-bb5f-4cd02b839a61.JPG)
+
+# Competition Link
+
+https://www.hackerearth.com/challenges/competitive/get-a-room-ml-hackathon/
