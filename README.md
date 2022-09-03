@@ -35,3 +35,5 @@ The columns provided in the dataset are as follows:
 ![SCORE_FINAL](https://user-images.githubusercontent.com/84449238/188273586-6f93ac36-df3e-492a-bc94-38fc832d62ee.jpg)
 
 **c) Competition Link:-** https://www.hackerearth.com/challenges/competitive/get-a-room-ml-hackathon/
+
+**d) Rank Scored:-** 82 out of 2803 registered participants
