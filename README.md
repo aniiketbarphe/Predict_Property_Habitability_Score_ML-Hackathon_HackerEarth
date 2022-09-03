@@ -28,7 +28,10 @@ The columns provided in the dataset are as follows:
 
 # Summary
 
+**a) Best Submission Score:-** 83.70756
 
-# Competition Link
+**b) Best Model:-** Ensemble Model (RandomForest Regressor + CatBoost Regressor + LGBM Regressor)
 
-https://www.hackerearth.com/challenges/competitive/get-a-room-ml-hackathon/
+![SCORE_FINAL](https://user-images.githubusercontent.com/84449238/188273586-6f93ac36-df3e-492a-bc94-38fc832d62ee.jpg)
+
+**c) Competition Link:-** https://www.hackerearth.com/challenges/competitive/get-a-room-ml-hackathon/
